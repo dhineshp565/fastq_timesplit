@@ -4,7 +4,7 @@ Shell script for splitting fastq file (oxford nanopore sequencing)  based on tim
 ```
 ./fastq_timesplit.sh path/to/dir/sub-directory_with_fastq 30
 $1 path to directory containing sub-directories with fasat files
-$2 Interger representing time interval (eg. 30 means 30 minutes)
+$2 Integer representing time interval (eg. 30 means 30 minutes)
 
 ```
 
